@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TK Shortcodes\n"
+"POT-Creation-Date: 2015-06-08 11:15+0100\n"
+"PO-Revision-Date: 2015-06-08 11:15+0100\n"
+"Last-Translator: \n"
+"Language-Team: Themes Kingdom <info@themeskingdom.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-tk-admin-insert.php:38
+msgid "TK Shortcodes"
+msgstr ""
+
+#: includes/class-tk-admin-insert.php:312
+msgid "Select the shortcode type"
+msgstr ""
+
+#: includes/class-tk-admin-insert.php:314
+msgid "Select Shortcode"
+msgstr ""
+
+#: includes/class-tk-admin-insert.php:353
+#: includes/class-tk-admin-insert.php:366
+msgid "Remove"
+msgstr ""
+
+#: includes/class-tk-admin-insert.php:388
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/class-tk-admin-insert.php:389
+msgid "Cancel"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:13
+msgid "Button"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:20
+msgid "Button URL"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:21
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:25
+msgid "Button Style"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:26
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:28
+msgid "Grey"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:29
+msgid "Yellow"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:30
+msgid "Black"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:31
+msgid "Dark Blue"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:32
+msgid "Light Blue"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:33
+msgid "Red"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:34
+msgid "Green"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:39
+msgid "Button Size"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:40
+msgid "Select the button's size"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:42
+msgid "Default"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:43
+msgid "Large"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:44
+msgid "Small"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:45
+msgid "Mini"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:50
+msgid "Button Type"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:51
+msgid "Select the button's type"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:59
+msgid "Button Target"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:60
+msgid "Set the browser behavior for the click action."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:69
+msgid "Button's Text"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:70
+msgid "Add the button's text"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:79
+msgid "Dropcap"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:84
+msgid "Type of dropcap"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:85
+msgid "Select the dropcap type"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:94
+msgid "Letter"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:95
+#: includes/tksc-shortcode-config.php:219
+msgid "Insert starting letter to use as dropcap."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:107
+msgid "Row"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:110
+msgid "Add columns inside this row to clear floats!"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:117
+msgid "Columns"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:120
+msgid ""
+"Click 'Add Column' to add a new column. Drag and drop to reorder columns."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:126
+msgid "Column Type"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:127
+msgid "Select the width of the column."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:129
+msgid "One Third"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:130
+msgid "Two Thirds"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:131
+msgid "One Half"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:132
+msgid "One Fourth"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:133
+msgid "Three Fourth"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:134
+msgid "One Sixth"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:135
+msgid "Five Sixth"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:139
+msgid "Column content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:141
+msgid "Column Content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:142
+msgid "Add the column content."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:146
+msgid "Add Column"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:153
+msgid "Fullwidth Section"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:159
+msgid "Background Color"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:166
+msgid "Add Content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:167
+msgid "shortcodes, text, etc..."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:176
+msgid "Image Url"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:177
+msgid "Place image url"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:184
+msgid "Background Image Repeat"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:185
+msgid "Select if image would repeat i stay fixed and centered"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:198
+msgid "InfoBox"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:204
+msgid "Message Box Style"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:205
+msgid "Select the type of the message box."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:207
+msgid "Default Message"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:208
+msgid "Announcement Message"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:209
+msgid "Error Message"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:210
+msgid "Success Message"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:211
+msgid "Warning Message"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:212
+msgid "Information Message"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:218
+msgid "Insert yor text"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:233
+msgid "Progress Bar"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:239
+msgid "Progress Bar Percentage"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:240
+msgid "% (0 - 100)"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:249
+msgid "Progress title"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:250
+msgid "Insert text to explain progress bar."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:262
+msgid "Toggle"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:265
+msgid ""
+"Click 'Add Toggle' to add a new toggle. Drag and drop to reorder toggles."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:271
+msgid "Toggle Title"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:281
+msgid "Toggle State"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:282
+msgid "Select the state of the toggle on page load"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:291
+msgid "Toggle Content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:292
+msgid "Add the toggle content."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:301
+msgid "Add Toggle"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:310
+msgid "Tabbed content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:313
+msgid "Click 'Add Tab' to add a new tag. Drag and drop to reorder tabs."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:318
+#: includes/tksc-shortcode-config.php:346
+msgid "Title"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:320
+msgid "Tab Title"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:321
+#: includes/tksc-shortcode-config.php:349
+msgid "Title of the tab."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:324
+#: includes/tksc-shortcode-config.php:326
+msgid "Tab Content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:327
+msgid "Add the tabs content."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:331
+msgid "Add Tab"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:338
+msgid "Accordion content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:341
+msgid ""
+"Click 'Add Accordion' to add a new tag. Drag and drop to reorder accordion."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:348
+msgid "Accordion Title"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:352
+#: includes/tksc-shortcode-config.php:354
+msgid "Accordion Content"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:355
+msgid "Add the accordion content."
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:359
+msgid "Add Accordion"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:365
+msgid "Icon"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:368
+msgid "Choose your icon by clicking on it and enter details"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:372
+msgid "Choose icon"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:373
+msgid "Choose your icon above"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:749
+msgid "Icon Size"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:750
+msgid "Select icon size"
+msgstr ""
+
+#: includes/tksc-shortcode-config.php:764
+msgid "Icon URL"
+msgstr ""

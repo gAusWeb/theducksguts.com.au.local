@@ -1,0 +1,239 @@
+/* Icons */
+
+@font-face {
+    font-family: 'icomoon';
+    src:url('../icons/icomoon.eot?-evjn82');
+    src:url('../icons/icomoon.eot?#iefix-evjn82') format('embedded-opentype'),
+        url('../icons/icomoon.woff?-evjn82') format('woff'),
+        url('../icons/icomoon.ttf?-evjn82') format('truetype'),
+        url('../icons/icomoon.svg?-evjn82#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.single-soc-share-link [class^="icon-"],
+.single-soc-share-link [class*=" icon-"] {
+    background-image: none;
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: baseline;
+    width: auto;
+    height: auto;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.single-soc-share-link .icon-reddit:before {
+    content: "\e100";
+}
+
+.single-soc-share-link .icon-facebook:before {
+    content: "\e101";
+}
+
+.single-soc-share-link .icon-google:before {
+    content: "\e102";
+}
+
+.single-soc-share-link .icon-linkedin:before {
+    content: "\e103";
+}
+
+.single-soc-share-link .icon-mail:before {
+    content: "\e104";
+}
+
+.single-soc-share-link .icon-pinterest:before {
+    content: "\e105";
+}
+
+.single-soc-share-link .icon-stumbleupon:before {
+    content: "\e106";
+}
+
+.single-soc-share-link .icon-twitter:before {
+    content: "\e107";
+}
+
+/**
+ * Styleing for Rounded Icons Set
+ */
+
+.share-total-count {
+    color: #6a6a6a;
+    font-size: 12px !important;
+    letter-spacing: 0.3px;
+    margin-right: 14px;
+    padding: 6px 18px 0;
+    vertical-align: middle;
+}
+
+.share-total-count,
+.single-soc-share-link a {
+    border: 1px solid;
+    border-color: rgba(52,52,52,.1);
+    border-radius: 17px;
+    height: 33px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #7f7f7f;
+}
+
+.single-soc-share-link {
+    margin-right: 7px;
+}
+
+.single-soc-share-link:last-child {
+    margin-right: 0;
+}
+
+.tkss-post-share .single-soc-share-link a {
+    border: 1px solid !important;
+    border-color: rgba(52,52,52,.1) !important;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    color: #7f7f7f;
+}
+
+.tkss-post-share .single-soc-share-link a:hover {
+    border: 1px solid;
+}
+
+.post .single-soc-share-link a {
+    color: #7f7f7f;
+    font-size: 12px;
+    line-height: 1.4em;
+    padding: 8px !important;
+}
+
+.counter-on .single-soc-share-link a,
+.text .single-soc-share-link a {
+    padding: 8px 18px !important;
+}
+
+.tkss-post-share .single-soc-share-link [href*="facebook"]:hover {
+    border-color: #425596;
+}
+
+.single-soc-share-link [href*="facebook"]:hover .counter,
+.single-soc-share-link [href*="facebook"]:hover {
+    color: #425596;
+}
+
+.tkss-post-share .single-soc-share-link [href*="twitter"]:hover {
+    border-color: #4aa8df;
+}
+
+.single-soc-share-link [href*="twitter"]:hover .counter,
+.single-soc-share-link [href*="twitter"]:hover {
+    color: #4aa8df;
+}
+
+.tkss-post-share .single-soc-share-link [href*="google"]:hover {
+    border-color: #de4839;
+}
+
+.single-soc-share-link [href*="google"]:hover .counter,
+.single-soc-share-link [href*="google"]:hover {
+    color: #de4839;
+}
+
+.tkss-post-share .single-soc-share-link [href*="linkedin"]:hover {
+    border-color: #0071aa;
+}
+
+.single-soc-share-link [href*="linkedin"]:hover .counter,
+.single-soc-share-link [href*="linkedin"]:hover {
+    color: #0071aa;
+}
+
+.tkss-post-share .single-soc-share-link [href*="pinterest"]:hover {
+    border-color: #e9343a;
+}
+
+.single-soc-share-link [href*="pinterest"]:hover .counter,
+.single-soc-share-link [href*="pinterest"]:hover {
+    color: #e9343a;
+}
+
+.tkss-post-share .single-soc-share-link [href*="stumbleupon"]:hover {
+    border-color: #404040;
+}
+
+.single-soc-share-link [href*="stumbleupon"]:hover .counter,
+.single-soc-share-link [href*="stumbleupon"]:hover {
+    color: #404040;
+}
+
+.tkss-post-share .single-soc-share-link [href*="reddit"]:hover {
+    border-color: #ff4500;
+}
+
+.single-soc-share-link [href*="reddit"]:hover .counter,
+.single-soc-share-link [href*="reddit"]:hover {
+    color: #ff4500;
+}
+
+.tkss-post-share .single-soc-share-link [href*="mail"]:hover {
+    border-color: #ccc;
+}
+
+.single-soc-share-link [href*="mail"]:hover .counter,
+.single-soc-share-link [href*="mail"]:hover {
+    color: #ccc;
+}
+
+.icons .single-soc-share-link span:not(.counter),
+.text .single-soc-share-link i {
+    display: none;
+}
+
+.text .single-soc-share-link span:first-child {
+    display: inline-block;
+    font-size: 12px !important;
+    font-weight: 700;
+}
+
+.text.counter-on .single-soc-share-link a {
+    padding: 0 15px 0 5px;
+}
+
+.text .single-soc-share-link a {
+    padding: 0 5px;
+}
+
+.text .single-soc-share-link a .counter {
+    top: 0;
+}
+
+.post .counter {
+    color: rgba(106,106,106,.56);
+    font-size: 13px !important;
+    font-weight: 700;
+    margin-left: 6px;
+    padding: 0;
+    position: relative;
+    top: -2px;
+    -webkit-transition: color .3s;
+    -moz-transition: color .3s;
+    -ms-transition: color .3s;
+    -o-transition: color .3s;
+    transition: color .3s;
+}
+
+.single-soc-share-link [class^="icon-"],
+.single-soc-share-link [class*=" icon-"],
+.single-soc-share-link [class^="icon-"]:before,
+.single-soc-share-link [class*=" icon-"]:before {
+    font-size: 16px !important;
+}

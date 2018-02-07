@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TK Social Share\n"
+"POT-Creation-Date: 2015-04-22 15:45+0100\n"
+"PO-Revision-Date: 2015-04-22 15:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: Themes Kingdom <info@themeskingdom.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: tk-social-share.php:101
+msgid "TK Social Sharing Settings"
+msgstr ""
+
+#: tk-social-share.php:109 tk-social-share.php:118
+msgid "General Settings"
+msgstr ""
+
+#: tk-social-share.php:110 tk-social-share.php:119
+msgid "Social Settings"
+msgstr ""
+
+#: tk-social-share.php:111 tk-social-share.php:120
+msgid "Display Settings"
+msgstr ""
+
+#: tk-social-share.php:146
+msgid "Check which type of sharing you want to enable"
+msgstr ""
+
+#: tk-social-share.php:152
+msgid "Enable Page Sharing"
+msgstr ""
+
+#: tk-social-share.php:160
+msgid "Enables sharing icons on Pages"
+msgstr ""
+
+#: tk-social-share.php:163
+msgid "Enable Post Sharing"
+msgstr ""
+
+#: tk-social-share.php:171
+msgid "Enables sharing icons on Posts"
+msgstr ""
+
+#: tk-social-share.php:174
+msgid "Enable Sharing On Archives"
+msgstr ""
+
+#: tk-social-share.php:182
+msgid "Enables sharing icons on Archives"
+msgstr ""
+
+#: tk-social-share.php:192
+msgid "Check which Social Networks you want to display"
+msgstr ""
+
+#: tk-social-share.php:198
+msgid "Facebook"
+msgstr ""
+
+#: tk-social-share.php:206
+msgid "Enables Facebook Share"
+msgstr ""
+
+#: tk-social-share.php:209
+msgid "Twitter"
+msgstr ""
+
+#: tk-social-share.php:217
+msgid "Enables Twitter Share"
+msgstr ""
+
+#: tk-social-share.php:220
+msgid "Google+"
+msgstr ""
+
+#: tk-social-share.php:228
+msgid "Enables Google+ Share"
+msgstr ""
+
+#: tk-social-share.php:231
+msgid "Pinterest"
+msgstr ""
+
+#: tk-social-share.php:239
+msgid "Enables Pinterest Share"
+msgstr ""
+
+#: tk-social-share.php:242
+msgid "StumbleUpon"
+msgstr ""
+
+#: tk-social-share.php:250
+msgid "Enables StumbleUpon Share"
+msgstr ""
+
+#: tk-social-share.php:253
+msgid "LinkedIn"
+msgstr ""
+
+#: tk-social-share.php:261
+msgid "Enables LinkedIn Share"
+msgstr ""
+
+#: tk-social-share.php:264
+msgid "Reddit"
+msgstr ""
+
+#: tk-social-share.php:272
+msgid "Enables Reddit Share"
+msgstr ""
+
+#: tk-social-share.php:275
+msgid "Email"
+msgstr ""
+
+#: tk-social-share.php:283
+msgid "Enables Email Share"
+msgstr ""
+
+#: tk-social-share.php:291
+msgid "Set social sharing display options"
+msgstr ""
+
+#: tk-social-share.php:297
+msgid "Display on top of content"
+msgstr ""
+
+#: tk-social-share.php:305
+msgid "Displays social share box on top of content"
+msgstr ""
+
+#: tk-social-share.php:308
+msgid "Display on bottom of content"
+msgstr ""
+
+#: tk-social-share.php:316
+msgid "Displays social share box on bottom of content"
+msgstr ""
+
+#: tk-social-share.php:319
+msgid "Display share count"
+msgstr ""
+
+#: tk-social-share.php:327
+msgid "Displays social share count next to social icons"
+msgstr ""
+
+#: tk-social-share.php:333
+msgid "Sharing Icons"
+msgstr ""
+
+#: tk-social-share.php:334
+msgid "Select icons design for sharing box"
+msgstr ""
+
+#: tk-social-share.php:340
+msgid "Fontawesome icons"
+msgstr ""
+
+#: tk-social-share.php:355
+msgid "Colored icons"
+msgstr ""
+
+#: tk-social-share.php:415
+msgid "Enable sharing on this post / page"
+msgstr ""
+
+#: tk-social-share.php:534
+msgid "Share on"
+msgstr ""

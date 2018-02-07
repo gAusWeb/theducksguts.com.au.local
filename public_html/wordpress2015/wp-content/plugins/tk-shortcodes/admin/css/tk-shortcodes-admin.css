@@ -1,0 +1,357 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ *
+ * 1. Button Icon
+ */
+
+/**
+ * ---------------------------------------
+ * 1. Button Icon
+ * ---------------------------------------
+ */
+.dashicons-menu {
+    padding-top: 3px;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    margin-top: 1px;
+    line-height: 14px;
+    vertical-align: text-top;
+    background-image: none;
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+}
+
+.ico-holder {
+    float: left;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.ico-holder .fa {
+    font-size: 1.5em
+}
+
+.ico-holder.active,
+.ico-holder:hover {
+    background-color: #CECECE;
+    border-radius: 2px;
+}
+
+.icon-option {
+    width: 100%;
+    height: auto;
+}
+
+i.tkingdom-own-icon {
+    background-image: url( '../../assets/shortcodes-icon.png' );
+}
+
+.tk-sortable .ui-sortable-handle {
+  padding: 30px;
+  background-color: #F4F4F5;
+  border: 1px solid #ccc;
+  margin: 15px 1px;
+  cursor: move;
+}
+
+/*-- $Elements --*/
+
+/*blockquote*/
+blockquote {
+    border-left: 4px solid #00acee;
+}
+
+/*dropcap*/
+.dropcap-background {
+    background-color: #efefef;
+    color: #000;
+    float: left;
+    font-size: 2em;
+    font-weight: 700;
+    line-height: 1em;
+    margin: 0.1em 8px 0 0;
+    padding: 0.23em 0.52em;
+    text-transform: uppercase;
+    width: auto;
+}
+
+.dropcap-no-background {
+    color: #000;
+    float: left;
+    font-size: 3em;
+    font-weight: 700;
+    line-height: 16px;
+    margin: 0;
+    padding: 0.3em 8px 0.3em 0;
+    text-transform: uppercase;
+    width: auto;
+}
+
+/*-- $Buttons --*/
+
+.tk-btn {
+    border-radius: 1.5em;
+    border: 2px solid;
+    box-shadow: none;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1em;
+    margin: 15px 0;
+    text-decoration: none;
+    text-shadow: none;
+    vertical-align: middle;
+    width: auto;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}
+
+.tk-btn.square {
+    border-radius: 3px;
+}
+
+.tk-btn:hover {
+    color: #fff;
+}
+
+.tk-btn,
+.tk-btn.tksc-btn-large {
+    padding: 0.7em 2.2em 0.8em;
+}
+
+.tk-btn.tksc-btn-large {
+    font-size: 22px;
+}
+
+.tk-btn.tksc-btn-small,
+.tk-btn.tksc-btn-mini {
+    padding: 0.8em 2.2em;
+}
+
+.tk-btn.tksc-btn-small {
+    font-size: 14px;
+}
+
+.tk-btn.tksc-btn-mini {
+    font-size: 12px;
+}
+
+.tk-btn.default {
+    background: #b3b3b3;
+    border-color: #b3b3b3;
+}
+
+.tk-btn.default:hover {
+    background: #848383;
+    border-color: #848383;
+}
+
+.tk-btn.tksc-btn-primary {
+    border-color: #353535;
+    color: #353535;
+}
+
+.tk-btn.tksc-btn-inverse {
+    background: #2e2e2e;
+    border-color: #2e2e2e;
+}
+
+.tk-btn.tksc-btn-primary:hover,
+.tk-btn.tksc-btn-inverse:hover {
+    background: #000;
+    border-color: #000;
+    color: #fff;
+}
+
+.tk-btn.tksc-btn-info {
+    background: #208dc5;
+    border-color: #208dc5;
+}
+
+.tk-btn.tksc-btn-info:hover {
+    background: #1a6389;
+    border-color: #1a6389;
+}
+
+.tk-btn.tksc-btn-success {
+    background: #3b9a32;
+    border-color: #3b9a32;
+}
+
+.tk-btn.tksc-btn-success:hover {
+    background: #2d7625;
+    border-color: #2d7625;
+}
+
+.tk-btn.tksc-btn-warning {
+    background: #fd852d;
+    border-color: #fd852d;
+}
+
+.tk-btn.tksc-btn-warning:hover {
+    background: #cd6b23;
+    border-color: #cd6b23;
+}
+
+.tk-btn.tksc-btn-danger {
+    background: #d73a3a;
+    border-color: #d73a3a;
+}
+
+.tk-btn.tksc-btn-danger:hover {
+    background: #b43232;
+    border-color: #b43232;
+}
+
+/*-- $Info-Box --*/
+
+.tksc-alert-box {
+    border-radius: 3px;
+    font-size: 18px;
+    margin-top: 3.86rem;
+    margin-top: 40px;
+    padding: 18px 55px 18px 30px;
+    position: relative;
+    line-height: 1.67;
+}
+
+.tksc-alert-default {
+    border: 1px solid #dfdfdf;
+    color: #4a4a4a;
+}
+
+.tksc-alert-announcement {
+    background-color: #d1d1d1;
+    color: #000;
+}
+
+.tksc-alert-error {
+    background-color: #f8c1c1;
+    color: #c94141;
+}
+
+.tksc-alert-success {
+    background-color: #d5f8c0;
+    color: #4b9f42;
+}
+
+.tksc-alert-warning {
+    background-color: #fbf1c8;
+    color: #e4b423;
+}
+
+.tksc-alert-info {
+    background-color: #b8e2f7;
+    color: #367b9f;
+}
+
+.tksc-alert-default .close-infobox:before,
+.tksc-alert-default .close-infobox:after {
+    background-color: #c9c9c9;
+}
+
+.tksc-alert-announcement .close-infobox:before,
+.tksc-alert-announcement .close-infobox:after {
+    background-color: #a9a9a9;
+}
+
+.tksc-alert-error .close-infobox:before,
+.tksc-alert-error .close-infobox:after {
+    background-color: #cf9d9d;
+}
+
+.tksc-alert-success .close-infobox:before,
+.tksc-alert-success .close-infobox:after {
+    background-color: #a5bf93;
+}
+
+.tksc-alert-warning .close-infobox:before,
+.tksc-alert-warning .close-infobox:after {
+    background-color: #f1d375;
+}
+
+.tksc-alert-info .close-infobox:before,
+.tksc-alert-info .close-infobox:after {
+    background-color: #8dafc1;
+}
+
+.tksc-alert-default .close-infobox:hover:before,
+.tksc-alert-default .close-infobox:hover:after {
+    background-color: #a3a3a3;
+}
+
+.tksc-alert-announcement .close-infobox:hover:before,
+.tksc-alert-announcement .close-infobox:hover:after {
+    background-color: #8e8e8e;
+}
+
+.tksc-alert-error .close-infobox:hover:before,
+.tksc-alert-error .close-infobox:hover:after {
+    background-color: #b08484;
+}
+
+.tksc-alert-success .close-infobox:hover:before,
+.tksc-alert-success .close-infobox:hover:after {
+    background-color: #899e7a;
+}
+
+.tksc-alert-warning .close-infobox:hover:before,
+.tksc-alert-warning .close-infobox:hover:after {
+    background-color: #ba9e48;
+}
+
+.tksc-alert-info .close-infobox:hover:before,
+.tksc-alert-info .close-infobox:hover:after {
+    background-color: #597381;
+}
+
+body .tksc-alert-box p {
+    margin: 0;
+}
+
+.close-infobox {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    margin-top: -15px;
+}
+
+.close-infobox:before,
+.close-infobox:after {
+    content: "";
+    display: block;
+    height: 2px;
+    margin-left: -6px;
+    margin-top: -1px;
+    width: 12px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.close-infobox:before {
+    -webkit-transform: rotateZ(-45deg);
+    -ms-transform: rotateZ(-45deg);
+    -o-transform: rotateZ(-45deg);
+    transform: rotateZ(-45deg);
+}
+
+.close-infobox:after {
+    -webkit-transform: rotateZ(45deg);
+    -ms-transform: rotateZ(45deg);
+    -o-transform: rotateZ(45deg);
+    transform: rotateZ(45deg);
+}
+

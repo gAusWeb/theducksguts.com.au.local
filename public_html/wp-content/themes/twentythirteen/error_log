@@ -1,0 +1,4 @@
+[30-Apr-2016 19:37:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/theducks/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[30-Jun-2016 10:02:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/theducks/public_html/wp-content/themes/twentythirteen/404.php on line 10
+[22-Nov-2016 19:03:33 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/theducks/public_html/wp-content/themes/twentythirteen/author.php on line 12
+[06-Jun-2017 12:06:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/theducks/public_html/wp-content/themes/twentythirteen/404.php on line 10
